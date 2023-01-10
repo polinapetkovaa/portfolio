@@ -35,4 +35,6 @@ In this section I will list data analytics projects briefly describing the techn
 #### *Exercises from my Online Data Collection course*
 
 **Code:** [`Webscraping_and_API.ipynb`](https://nbviewer.org/github/polinapetkovaa/portfolio/blob/main/Webscraping%20and%20API.ipynb)
-
+**Description:** During my master I had an Online Data Collection course where we were learning how to web scrape and use API. The exercises from the course are included in the Jupyter Notebook above. A few websites that are free to webscrape were used such as books.toscrape.com, reddit.com, twitch.com, quotes.toscrape.com, icanhazdadjoke.com. 
+**Skills:** learned how to web scrape and use APIs
+**Technology:** Python, Selenium, Pandas, BeautifulSoup
