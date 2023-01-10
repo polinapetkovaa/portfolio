@@ -12,7 +12,7 @@ The current repository contains a portfolio of data analytics projects completed
 
 
         
-## About me
+### About me
 I am a graduate student with a master of science degree in Marketing Analytics from Tilburg University (Netherlands). I've studied International Business Administration and during that time, I found my passion for statistics. Therefore, I decided to follow my affection and further developed my skills in statistical methods, data collection, analysis, presentation, and interpretation. Along my studies, I started an internship at Unilever, particularly in the Net Revenue Management department, where I am currently working on analytics projects aiming to increase the revenue of the company. 
 
 ---
@@ -20,5 +20,5 @@ I am a graduate student with a master of science degree in Marketing Analytics f
 ### Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Project 1
+#### Project 1
 
