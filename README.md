@@ -34,5 +34,5 @@ In this section I will list data analytics projects briefly describing the techn
 ### Web Scraping and API Course
 #### *Exercises from my Online Data Collection course*
 
-**Code:** [`Webscraping_and_API.ipynb`](http://localhost:8888/notebooks/OneDrive/Documents/Master%20MA/Online%20Data%20Collection%202nd/Webscraping%20and%20API.ipynb)
+**Code:** [`Webscraping_and_API.ipynb`](https://nbviewer.org/github/polinapetkovaa/portfolio/blob/main/Webscraping%20and%20API.ipynb)
 
