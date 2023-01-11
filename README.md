@@ -10,7 +10,7 @@ The current repository contains a portfolio of data analytics projects completed
 - [Portfolio project](#portfolio-projects)
   * [Text Mining Thessaloniki Project](#Thessaloniki-textmining-project)
   * [AirBnB Project](#airbnb-project)
-  * [Web Scraping and API Course](#web-scraping-and-api)
+  * [Web Scraping and API Course](#web-scraping-and-api-course)
 
 
         
