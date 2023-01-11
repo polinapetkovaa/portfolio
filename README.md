@@ -8,6 +8,7 @@ The current repository contains a portfolio of data analytics projects completed
 # Table of contents
 - [About me](#about-me)
 - [Portfolio project](#portfolio-projects)
+  * [Text Mining Thessaloniki Project](#Thessaloniki-textmining-project)
   * [AirBnB Project](#airbnb-project)
   * [Web Scraping and API Course](#web-scraping-and-api)
 
@@ -20,6 +21,10 @@ I am a graduate student with a master of science degree in Marketing Analytics f
 
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Text Mining Thessaloniki Project
+**Code:** [`Text_Mining_Analysis.R](https://github.com/polinapetkovaa/portfolio/blob/main/Text_Mining_Analysis.R)
+**Description:** 
 
 ### AirBnB Project
 #### *The effect of AirBnB host response time on bookings*  
@@ -34,7 +39,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Web Scraping and API Course
 #### *Exercises from my Online Data Collection course*
 
-**Code:** [`Webscraping_and_API.ipynb`](https://nbviewer.org/github/polinapetkovaa/portfolio/blob/main/Webscraping%20and%20API.ipynb)
-**Description:** During my master I had an Online Data Collection course where we were learning how to web scrape and use API. The exercises from the course are included in the Jupyter Notebook above. A few websites that are free to webscrape were used such as books.toscrape.com, reddit.com, twitch.com, quotes.toscrape.com, icanhazdadjoke.com. 
-**Skills:** learned how to web scrape and use APIs
-**Technology:** Python, Selenium, Pandas, BeautifulSoup
+**Code:** [`Webscraping_and_API.ipynb`](https://nbviewer.org/github/polinapetkovaa/portfolio/blob/main/Webscraping%20and%20API.ipynb)  
+**Description:** During my master I had an Online Data Collection course where we were learning how to web scrape and use API. The exercises from the course are included in the Jupyter Notebook above. A few websites that are free to webscrape were used such as books.toscrape.com, reddit.com, twitch.com, quotes.toscrape.com, icanhazdadjoke.com.  
+**Skills:** learned how to web scrape and use APIs  
+**Technology:** Python, Selenium, Pandas, BeautifulSoup  
