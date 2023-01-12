@@ -10,6 +10,7 @@ The current repository contains a portfolio of data analytics projects completed
 - [Portfolio project](#portfolio-projects)
   * [Text Mining Thessaloniki Project](#text-mining-thessaloniki-project)
   * [Sentiment Analysis of Tweets](#sentiment-analysis-of-Tweets)
+  * [Data Exploration and Visualization](#data-exploration-and-visualization)
   * [AirBnB Project](#airbnb-project)
   * [Web Scraping Reddit](#web-scraping-reddit)
   * [Web Scraping Twitch with Selenium](#web-scraping-twitch-with-selenium)
@@ -42,7 +43,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Understanding how Trump's tweets change during the different points in the day and plotting the sentiment of the tweets across business hours and non-business hours.  
 **Skills:** Tidying tweets, removing stopwords, finding the most unique words, vader santiment analysis, dividing sentiment into positive, negative, and neutral, visualization.  
 **Language:** R language in RStudio.  
-
+  
+  
+### Data Exploration and Visualization
+**Code:**[`Data_Exploration_and_Visualization.R`](https://github.com/polinapetkovaa/portfolio/blob/main/Data%20Exploration%20and%20Visualization.R)  
+**Description:** Using dataset regarding movies to perform data exploration and visualization. Doing descriptive statistics and visualizations with barplots and ggplots. The dataset was provided by Arjen van Lin, a professor in Tilburg University, Netherlands.  
+**Results:** Barplots and ggplots visualizing.  
+**Skills:** Cleaning data, merging datasets, data manipulation, descriptive statistics, visualization.  
+**Language:** R language in RStudio.  
+  
   
 ### AirBnB Project
 #### *The effect of AirBnB host response time on bookings*  
