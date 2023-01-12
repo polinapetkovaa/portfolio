@@ -38,7 +38,11 @@ In this section I will list data analytics projects briefly describing the techn
 #### *Sentiment analysis of tweets that Trump has posted in 2020*
 
 **Code:** [`Sentiment_Analysis_of_Tweets.R`](https://github.com/polinapetkovaa/portfolio/blob/main/Sentiment_Analysis_Trump.R)  
-**Description:** 
+**Description:** Performing a sentiment analysis of tweets posted by Trump in 2020. The dataset has been provided by professor Lachlan Deer, Tilburg University, Netherlands. Defining the term sentiment analysis lexicon and classifying words and texts as positive, negative or neutral using a sentiment analysis lexicon.  
+**Results:** Understanding how Trump's tweets change during the different points in the day and plotting the sentiment of the tweets across business hours and non-business hours.  
+**Skills:** Tidying tweets, removing stopwords, finding the most unique words, vader santiment analysis, dividing sentiment into positive, negative, and neutral, visualization.  
+**Language:** R language in RStudio.  
+
   
 ### AirBnB Project
 #### *The effect of AirBnB host response time on bookings*  
