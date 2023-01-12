@@ -12,7 +12,7 @@ The current repository contains a portfolio of data analytics projects completed
   * [Sentiment Analysis of Tweets](#sentiment-analysis-of-Tweets)
   * [AirBnB Project](#airbnb-project)
   * [Web Scraping Reddit](#web-scraping-reddit)
-  * [Web Scraping Twitch using Selenium](#web-scraping-twitch-using-selenium)
+  * [Web Scraping Twitch using Selenium](#web-scraping-Twitch-using-Selenium)
 
 
 
