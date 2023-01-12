@@ -24,8 +24,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Text Mining Thessaloniki Project
 **Code:** [`Text_Mining_Analysis.R`](https://github.com/polinapetkovaa/portfolio/blob/main/Text_Mining_Analysis.R)  
-**Description:** Using data from the [Inside AirBnB](http://insideairbnb.com/get-the-data/) website for airbnbs in Thessaloniki, Greece, I did a text mining analysis. The purpose of the analysis was to find which are the most common words used in the description of the listings, what is the average lenght of the descriptions of the listings, what are the most common words used to describe the neighbourhood where the apartment/house is situated. This was a project that was performed for a Bulgarian company that offers apartments in Airbnb and they wanted to know how people in another country similar to Bulgaria list their properties in Airbnb.  
-**Results:** The results show the average lenght of a description of an Airbnb listing in Thessaloniki, the most common words used in property descriptions and neighbourhood descriptions.  
+**Description:** Using data from the [Inside AirBnB](http://insideairbnb.com/get-the-data/) website for airbnbs in Thessaloniki, Greece, I did a text mining analysis. The purpose of the analysis was to find which are the most common words used in the description of the listings, what is the average length of the descriptions of the listings, what are the most common words used to describe the neighbourhood where the apartment/house is situated. This was a project that was performed for a Bulgarian company that offers apartments in Airbnb and they wanted to know how people in another country (similar to Bulgaria) list their properties in Airbnb.  
+**Results:** The results show the average lenght of a description of an Airbnb listing in Thessaloniki, the most common words used in property descriptions and neighbourhood descriptions. The results are visualized in graphs and wordclouds.  
 **Skills:** Data cleaning and preparation, data manipulation, text mining, stemming, plotting (graphs and wordclouds), visualization.  
 **Language:** R in RStudio.
 
