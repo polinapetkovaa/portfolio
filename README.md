@@ -9,6 +9,7 @@ The current repository contains a portfolio of data analytics projects completed
 - [About me](#about-me)
 - [Portfolio project](#portfolio-projects)
   * [Text Mining Thessaloniki Project](#Thessaloniki-textmining-project)
+  * [Sentiment Analysis of Tweets](#Sentiment-analysis-Tweets)
   * [AirBnB Project](#airbnb-project)
   * [Web Scraping Reddit](#scraping-reddit)
   * [Web Scraping Twitch using Selenium](#scraping-twitch-with-selenium)
@@ -33,6 +34,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Language:** R in RStudio.  
   
   
+### Sentiment Analysis of Tweets
+#### *Sentiment analysis of tweets that Trump has posted in 2020*
+
+**Code:** [`Sentiment_Analysis_of_Tweets`](https://github.com/polinapetkovaa/portfolio/blob/main/Sentiment_Analysis_Trump.R)  
+**Description:** 
   
 ### AirBnB Project
 #### *The effect of AirBnB host response time on bookings*  
