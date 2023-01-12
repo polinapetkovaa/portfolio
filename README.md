@@ -11,6 +11,7 @@ The current repository contains a portfolio of data analytics projects completed
   * [Text Mining Thessaloniki Project](#Thessaloniki-textmining-project)
   * [AirBnB Project](#airbnb-project)
   * [Web Scraping Reddit](#scraping-reddit)
+  * [Web Scraping Twitch using Selenium](#scraping-twitch-with-selenium)
   * [Web Scraping and API Course](#web-scraping-and-api-course)
 
 
@@ -48,6 +49,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** An exercise where I am using the Reddit.com API to retrieve data for random subreddits of my choice.  
 **Results:** A dictionary that contains the following information for seven subreddits: name of the subreddit, title of the subreddit, subscribers, and date of creation.  
 **Skills:** Python, webscraping, API  
+
+
+### Web Scraping Twitch with Selenium  
+#### *Using Selenium to retrieve data from Twitch*  
+  
+**Code:** [`Scraping_Twitch.ipynb`](https://github.com/polinapetkovaa/portfolio/blob/main/Web%20Scraping%20Twitch%20using%20Selenium.ipynb)  
+**Description:** An exercise for webscraping Twitch website using Selenium to retrieve a list of all the current streams that are placed on the homepage of the website.  
+**Results:** A list of the streams that are on the homepage including the title of the stream.  
+**Skills:** Python, webscraping, Selenium.  
+
 
 ### Web Scraping and API Course
 #### *Exercises from my Online Data Collection course*
