@@ -11,9 +11,9 @@ The current repository contains a portfolio of data analytics projects completed
   * [Text Mining Thessaloniki Project](#text-mining-thessaloniki-project)
   * [Sentiment Analysis of Tweets](#sentiment-analysis-of-Tweets)
   * [AirBnB Project](#airbnb-project)
-  * [Web Scraping Reddit](#scraping-reddit)
-  * [Web Scraping Twitch using Selenium](#scraping-twitch-with-selenium)
-  * [Web Scraping and API Course](#web-scraping-and-api-course)
+  * [Web Scraping Reddit](#web-scraping-reddit)
+  * [Web Scraping Twitch using Selenium](#web-scraping-twitch-using-selenium)
+
 
 
         
@@ -69,11 +69,4 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** A list of the streams that are on the homepage including the title of the stream.  
 **Skills:** Python, webscraping, Selenium.  
 
-
-### Web Scraping and API Course
-#### *Exercises from my Online Data Collection course*
-
-**Code:** [`Webscraping_and_API.ipynb`](https://nbviewer.org/github/polinapetkovaa/portfolio/blob/main/Webscraping%20and%20API.ipynb)  
-**Description:** During my master I had an Online Data Collection course where we were learning how to web scrape and use API. The exercises from the course are included in the Jupyter Notebook above. A few websites that are free to webscrape were used such as books.toscrape.com, reddit.com, twitch.com, quotes.toscrape.com, icanhazdadjoke.com.  
-**Skills:** learned how to web scrape and use APIs  
-**Technology:** Python, Selenium, Pandas, BeautifulSoup  
+ 
