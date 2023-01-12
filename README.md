@@ -10,6 +10,7 @@ The current repository contains a portfolio of data analytics projects completed
 - [Portfolio project](#portfolio-projects)
   * [Text Mining Thessaloniki Project](#Thessaloniki-textmining-project)
   * [AirBnB Project](#airbnb-project)
+  * [Web Scraping Reddit](#scraping-reddit)
   * [Web Scraping and API Course](#web-scraping-and-api-course)
 
 
@@ -22,7 +23,8 @@ I am a graduate student with a master of science degree in Marketing Analytics f
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Text Mining Thessaloniki Project
+### Text Mining Thessaloniki Project  
+  
 **Code:** [`Text_Mining_Analysis.R`](https://github.com/polinapetkovaa/portfolio/blob/main/Text_Mining_Analysis.R)  
 **Description:** Using data from the [Inside AirBnB](http://insideairbnb.com/get-the-data/) website for airbnbs in Thessaloniki, Greece, I did a text mining analysis. The purpose of the analysis was to find which are the most common words used in the description of the listings, what is the average length of the descriptions of the listings, what are the most common words used to describe the neighbourhood where the apartment/house is situated. This was a project that was performed for a Bulgarian company that offers apartments in Airbnb and they wanted to know how people in another country (similar to Bulgaria) list their properties in Airbnb.  
 **Results:** The results show the average lenght of a description of an Airbnb listing in Thessaloniki, the most common words used in property descriptions and neighbourhood descriptions. The results are visualized in graphs and wordclouds.  
@@ -38,6 +40,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data cleaning and preparation, merging datasets, data transformation, descriptive statistics, analysis (linear regression), hypothesis testing, visualization.  
 **Language:** R language, makefile.  
 
+
+### Web Scraping Reddit  
+#### *Using Reddit API to retrieve data for subreddits*  
+
+**Code:** [`Scraping_Reddit.ipynb`](https://github.com/polinapetkovaa/portfolio/blob/main/Reddit%20Scraping.ipynb)  
+**Description:** An exercise where I am using the Reddit.com API to retrieve data for random subreddits of my choice.  
+**Results:** A dictionary that contains the following information for seven subreddits: name of the subreddit, title of the subreddit, subscribers, and date of creation.  
+**Skills:** Python, webscraping, API  
 
 ### Web Scraping and API Course
 #### *Exercises from my Online Data Collection course*
